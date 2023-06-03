@@ -12,3 +12,5 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Styled-Components](https://styled-components.com/)**
 - **[Jest](https://jestjs.io/)**
 - **[Testing-library](https://testing-library.com/)**
+
+Link do projeto na vercel - https://page-next-ts-jest-actions-9mizeeiqm-thifelipesilva.vercel.app/
