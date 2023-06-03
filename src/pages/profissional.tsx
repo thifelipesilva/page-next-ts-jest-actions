@@ -2,7 +2,7 @@
 import Paragrafo from "@/components/Paragrafo";
 import Titulo from "@/components/Titulo";
 import Image from "next/image";
-import { Container, Secao } from './styles';
+import { Container, Secao } from '@/styles/styles';
 
 export default function Usuario() {
   

@@ -2,7 +2,7 @@ import Botao from "@/components/Botao";
 import Titulo from "@/components/Titulo";
 import Image from "next/image";
 import Paragrafo from "@/components/Paragrafo";
-import { Container, Secao, CaixaDeBotoes } from './styles';
+import { Container, Secao, CaixaDeBotoes } from '@/styles/styles';
 
 export default function Home() {
 
